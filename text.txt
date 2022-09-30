@@ -1,0 +1,35 @@
+Operators
+
+Arithematic Operators
+
++ Addition
+- subtraction
+* multiplication
+/ Division
+% remainter
+++ Increment
+-- Decrement
+
+Assignment Operators
+
+=  ->  x=10;
++=  -> x+=4 -> x=x+4;
+-=  -> x-=4 -> x=x-4;
+*=  -> x*=4 -> x=x*4;
+/=  -> x/=4 -> x=x/4;
+%=  -> x%=4 -> x=x%4;
+
+comparison Operators
+
+a==b;
+a!=b;
+a>b;
+a<b;
+a<=b;
+a>=b;
+
+Logical Operators
+
+&& -AND 
+|| - OR 
+! - NOT
